@@ -1,0 +1,12 @@
+{
+    "name": "word-letter-count/word-letter-count",
+    "type": "project",
+    "description": "A new project",
+    "keywords": [],
+    "license": "",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    }
+}
